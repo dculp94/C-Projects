@@ -1,4 +1,4 @@
-# C-Projects
+# C++Projects
 Projects in C++
 
 - Dating back to 2013:
